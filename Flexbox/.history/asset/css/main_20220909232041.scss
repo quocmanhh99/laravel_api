@@ -1,0 +1,22 @@
+/* Từ tổng quan đến chi tiết  */
+/* Css Từ ngoài vào trong  */
+/* Từ sau ra trước  */
+/* Từ Trên Xuống dưới 
+ Trái Sang phải  */
+body {
+   font-family: "Open Sans";
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 1.5;
+}
+.container {
+   width: 1170px;
+   padding-left: 15px;
+   padding-right: 15px;
+   margin: 0px auto;
+   display: flex;
+}
+ul {
+   list-style: none;
+   padding: 0;
+}
